@@ -25,3 +25,12 @@ The objective is to predict whether an NBA player will remain in the league for 
 - Jupyter Notebook
 
 ## Repository Structure
+├── nba_feature_engineering.ipynb
+├── nba_players_feature_engineered.csv
+├── README.md
+└── dataset/
+└── nba_players.csv
+
+## Outcome
+
+The final output is a cleaned and feature-engineered dataset that is ready for machine learning model development to predict NBA player career longevity.
